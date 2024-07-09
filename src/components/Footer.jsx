@@ -9,11 +9,11 @@ const tweetTitle = "Recent Tweets";
 const addressList = [
     {
         iconName: 'icofont-google-map',
-        text: ' New York, USA.',
+        text: ' Helsinki, Finland.',
     },
     {
         iconName: 'icofont-phone',
-        text: ' +880 123 456 789',
+        text: ' +358 123 456 789',
     },
     {
         iconName: 'icofont-envelope',
@@ -106,11 +106,11 @@ const quickList = [
 const tweetList = [
     {
         iconName: 'icofont-twitter',
-        desc: <p>Aminur islam <a href="#">@ShopCart Greetings!  #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Purity Turunen <a href="#">@ShopCart Greetings!  #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
     {
         iconName: 'icofont-twitter',
-        desc: <p>Somrat islam <a href="#">@ShopCart Hey! #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
+        desc: <p>Big Sales <a href="#">@ShopCart Hey! #HTML_Template</a> Grab your item, 50% Big Sale Offer !!</p>,
     },
 ]
 
@@ -248,7 +248,7 @@ const Footer = () => {
         <div className="footer-bottom">
             <div className="container">
                 <div className="section-wrapper">
-                    <p>&copy; 2024 <Link to="/">Shop Cart</Link> Designed by <a href='/' target="_blank" ></a>XYZ</p>
+                    <p>&copy; 2024 <Link to="/">Shop Cart</Link> Designed by <a href='/' target="_blank" ></a>Purity Turunen</p>
                     <div className="footer-bottom-list">
                         {
                             footerbottomList.map((val, i) =>(
