@@ -216,12 +216,6 @@
 
 // export default Login
 
-// //https://www.youtube.com/watch?v=PGuKjkdGrEI
-// //5:06
-// //4:48
-
-
-//Login.jsx
 
 import { useState, useContext } from "react";
 import { AuthContext } from "../context/AuthProvider";

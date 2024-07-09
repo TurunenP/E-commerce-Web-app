@@ -194,6 +194,5 @@ const Review = () => {
 
 export default Review;
 
-//https://www.youtube.com/watch?v=PGuKjkdGrEI
-//1:14
+
 

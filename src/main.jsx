@@ -69,16 +69,3 @@ createRoot(document.getElementById("root")).render(
 );
 
  //<RouterProvider router={router} />
-
-//https://www.youtube.com/watch?v=PGuKjkdGrEI
-//4:36
-
-//https://www.youtube.com/watch?v=9GXsM09x3RA&t=32s
-
-//https://www.youtube.com/watch?v=2qWo6W5Wn8Q
-//10mins
-
-//https://www.youtube.com/watch?v=6xRWaTWl2P0
-//Hindi!
-
-//https://www.youtube.com/watch?v=75aTZq-qoZk

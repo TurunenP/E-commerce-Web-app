@@ -156,9 +156,3 @@ const ProductDisplay = ({item}) => {
 export default ProductDisplay
 
 
-//https://www.youtube.com/watch?v=PGuKjkdGrEI
-//54MINS
-
-//https://swiperjs.com/demos
-
-//https://www.youtube.com/watch?v=vic1s-a8v9g

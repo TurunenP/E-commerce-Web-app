@@ -61,5 +61,3 @@ const PopularPost = () => {
 
 export default PopularPost;
 
-//https://www.youtube.com/watch?v=PGuKjkdGrEI
-//4:25
