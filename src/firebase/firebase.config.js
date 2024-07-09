@@ -28,9 +28,4 @@ const app = initializeApp(firebaseConfig);
 export default app;
 
 
-// apiKey: "AIzaSyAkWN5hDjNpH7dgjVUwnvFWq0VV-VLZWhM",
-//   authDomain: "ecommerce-react-js-a69a4.firebaseapp.com",
-//   projectId: "ecommerce-react-js-a69a4",
-//   storageBucket: "ecommerce-react-js-a69a4.appspot.com",
-//   messagingSenderId: "567300993491",
-//   appId: "1:567300993491:web:2929f36c98aedf0a5f3f26",
+

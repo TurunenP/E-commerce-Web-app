@@ -205,10 +205,3 @@ console.log(result[0]);
 
 export default SingleBlock
 
-//https://www.youtube.com/watch?v=PGuKjkdGrEI
-//3:12
-
-//Stopped: 2>19
-
-
-//https://lipsumator.com/
